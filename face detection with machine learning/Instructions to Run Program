@@ -1,0 +1,8 @@
+# Instructions To Run This program 
+Step 1st : pip install cmake 
+
+Step 2nd : pip install face_recognition
+
+Step 3rd : python3 facerecognition.py
+
+Make sure that image present in same directory in which program  is present .
