@@ -1,0 +1,723 @@
+
+  
+Hi Guys welcome to the final tutorial for Breakout.
+
+
+  
+Hey you guys are excited to have you here and we're happy to be all together again.
+
+
+  
+I have to do yes.
+
+
+  
+This time we're going to watch the result for Breakout which I remind was much more challenging than
+
+
+  
+do.
+
+
+  
+So let's hope we get some good results.
+
+
+  
+OK.
+
+
+  
+So here is the main code.
+
+
+  
+You know we have several calls to all the girls are here and here is the make up and the code that will
+
+
+  
+execute all the other code.
+
+
+  
+So building a whole network can train the agents and the create.
+
+
+  
+OK.
+
+
+  
+So basically what we're going to do is just execute just to see how it's going but we will not wait
+
+
+  
+for the result because actually takes several hours.
+
+
+  
+So we prepared the results in this Test folder.
+
+
+  
+We already have the video and we will show you right to that.
+
+
+  
+OK.
+
+
+  
+OK.
+
+
+  
+So to execute is basically just to select the whole code here.
+
+
+  
+And here we go.
+
+
+  
+Right.
+
+
+  
+And as you can see the videos are populated.
+
+
+  
+OK.
+
+
+  
+All right.
+
+
+  
+So right now we already have two videos.
+
+
+  
+And then the agents are training but it's going to take a long time.
+
+
+  
+Now what we're going to do is watch the results.
+
+
+  
+OK.
+
+
+  
+OK.
+
+
+  
+Which I haven't seen yet.
+
+
+  
+We haven't seen that yet.
+
+
+  
+All right.
+
+
+  
+So in the template folder that you will find on the website you will find two of Fullers Cotonou commands
+
+
+  
+and could with compass that see if you've missed any detail you can still have a look at this code.
+
+
+  
+Yeah.
+
+
+  
+All the comments will explain so each line is welcome and you can understand.
+
+
+  
+And then in this fall they will find this test folder.
+
+
+  
+And that's the folder that will be populated with the videos.
+
+
+  
+OK.
+
+
+  
+So that's where the videos are.
+
+
+  
+So this these are the videos of our previous training.
+
+
+  
+You know we trained them for a couple of hours and we are seeing these videos.
+
+
+  
+So we're going to watch them one by one starting with the first one and we're going to see if you know
+
+
+  
+we see some martial art spring break out.
+
+
+  
+And if we manage to solve it.
+
+
+  
+OK.
+
+
+  
+So let's have a look at the first video.
+
+
+  
+So this video is you know actually what we're going to do.
+
+
+  
+We're going to do some stop the training because it's slowing down my computer right now.
+
+
+  
+So I get interrupted.
+
+
+  
+But I'll get there.
+
+
+  
+So let's watch it for you.
+
+
+  
+It's going to be really bad because it's really the first one the battle might not even.
+
+
+  
+There we go.
+
+
+  
+It doesn't fly at all because you know it's the very beginning it doesn't know what to do.
+
+
+  
+And it's still a preprocessing the images of yet nothing.
+
+
+  
+And it might even be the case for the second video the second one the panel might not still not move.
+
+
+  
+OK.
+
+
+  
+So how what do you think of this.
+
+
+  
+That worth spending so much energy on it.
+
+
+  
+OK.
+
+
+  
+So next video we might have something maybe a little something a little bit of art of doing away towards
+
+
+  
+not even not even useless if we didn't break breakouts or no.
+
+
+  
+Now I call it does this have something cool.
+
+
+  
+Let's let's hope that we get something for the next one.
+
+
+  
+Yeah I think we get something because now I didn't say up better.
+
+
+  
+OK.
+
+
+  
+So now the eye has eyes it's can't see can't sense what it's doing.
+
+
+  
+But it's not very quick yet.
+
+
+  
+It's not a smart catch but it's a four four.
+
+
+  
+OK so next thing you know it looks much better now.
+
+
+  
+Yeah.
+
+
+  
+More time there.
+
+
+  
+You ready.
+
+
+  
+Let's have a look.
+
+
+  
+OK.
+
+
+  
+Got it.
+
+
+  
+Got you got another one last.
+
+
+  
+Yeah.
+
+
+  
+Still not perfect but definitely it's like a human plane.
+
+
+  
+Very good job but still it's like you know like a human plane like a five year old two year old human
+
+
+  
+guy.
+
+
+  
+Wow.
+
+
+  
+You get it now.
+
+
+  
+Yeah.
+
+
+  
+So you're old now.
+
+
+  
+Yeah but it's like it's doing you know trying to catch the boat with some weird tactic.
+
+
+  
+Yeah.
+
+
+  
+It's not like a perfect prediction of where the ball is going to be.
+
+
+  
+OK.
+
+
+  
+Up and get much better .
+
+
+  
+OK.
+
+
+  
+Next one .
+
+
+  
+OK.
+
+
+  
+OK.
+
+
+  
+That was  seconds.
+
+
+  
+OK.
+
+
+  
+Now I mean at the time.
+
+
+  
+Oh now I would say it's a five year old
+
+
+  
+OK for you.
+
+
+  
+Yeah.
+
+
+  
+And now the goal of the book is growing faster.
+
+
+  
+So it's of course much more difficult with students in great.
+
+
+  
+So let's see if we can be  time   .
+
+
+  
+OK.
+
+
+  
+Here we go.
+
+
+  
+See it's getting better and that's a good sign.
+
+
+  
+OK call lasted three lives.
+
+
+  
+Next one was one minute  second guy.
+
+
+  
+That's the
+
+
+  
+straight there.
+
+
+  
+That's great.
+
+
+  
+And that's definitely a pronoun isn't it.
+
+
+  
+Yeah and you can tell if you're playing because it's like it's moving sporadically like super fast.
+
+
+  
+Yes.
+
+
+  
+And it's doing a lot of saving unnecessary moves but it's getting there.
+
+
+  
+Let's see how it does when the ball is moving really fast.
+
+
+  
+How one is supposed to be independent.
+
+
+  
+I don't know.
+
+
+  
+I think it's a bit on the color of the block in distress maybe.
+
+
+  
+Or is it just like random.
+
+
+  
+It looks like random but we should check out the rules.
+
+
+  
+But it's really doing great now.
+
+
+  
+Yeah.
+
+
+  
+So three four three four score plus really really great.
+
+
+  
+So yeah we definitely have some A see thing and break on their.
+
+
+  
+Of analysis.
+
+
+  
+Yes it seems like we have a brain with memory not only with eyes as has good guys you know it's a pretty
+
+
+  
+quick gesture but also it's got some memory
+
+
+  
+I don't know when you use your memory to play out yourself of course.
+
+
+  
+Yeah.
+
+
+  
+OK.
+
+
+  
+So well done rather than to the A.
+
+
+  
+I was the last one the last one.
+
+
+  
+Fifty five seconds or a little less.
+
+
+  
+You remember what the score was.
+
+
+  
+Now the previous one should get out to see if it get an improvement.
+
+
+  
+One that gets an improvement every day takes place in the same incident that yeah that's your inspiration
+
+
+  
+the say
+
+
+  
+OK we go
+
+
+  
+you know.
+
+
+  
+Wish I like some music playing.
+
+
+  
+Well once they hit that
+
+
+  
+you can do it.
+
+
+  
+It's like on steroids.
+
+
+  
+Clicking left or right all the time.
+
+
+  
+But he's doing good.
+
+
+  
+Yeah but we might not solve the whole game of breaking up.
+
+
+  
+We just need to have it trained more.
+
+
+  
+Yeah.
+
+
+  
+Those are really good three really good
+
+
+  
+balls.
+
+
+  
+There was a little bit to  beat the score and there was don't see that as well.
+
+
+  
+So we did it didn't stop me I think very nice very nice.
+
+
+  
+Awesome.
+
+
+  
+So I hope you like this mostly.
+
+
+  
+I hope you like this powerful implementation of the A see.
+
+
+  
+And yeah you can see what how hard it can do really well.
+
+
+  
+Yeah that's right.
+
+
+  
+Like at the end of the paper they have like a comparison of different algorithms.
+
+
+  
+And this one is the best one by far.
+
+
+  
+Not only they have the best comparison of these but also I experienced several of them.
+
+
+  
+And so I experienced the one without end and I see one with and definitely delisting improved the algorithm
+
+
+  
+how much better is a much better life.
+
+
+  
+I barely had some artificial intelligence before in the last like  seconds or  seconds but definitely
+
+
+  
+not more than  minutes.
+
+
+  
+As we saw here.
+
+
+  
+Yeah that's good.
+
+
+  
+Ok cool.
+
+
+  
+Thanks guys.
+
+
+  
+Thanks a lot.
+
+
+  
+That was the end of the third module and therefore the end of the Course.
+
+
+  
+Congratulations for having the three modules and mostly the A C which was a pretty big rig there.
+
+
+  
+And for sure explore the different modification that modifications exist today.
+
+
+  
+And you know maybe at the time we were watching this there's some really cool new advancements in ATC
+
+
+  
+and you can probably or even a new model even better than we see them.
+
+
+  
+Let's see what  says.
+
+
+  
+OK.
+
+
+  
+All right thanks.
+
+
+  
+All right guys thanks.
+
+
+  
+Bye.
